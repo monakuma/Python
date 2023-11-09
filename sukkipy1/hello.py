@@ -8,3 +8,5 @@ print('Hello World')
 # 名前と特技を表示
 print("僕の名前は坂本　崇")
 """print("おしいは正義")"""
+
+print("テストgit")
